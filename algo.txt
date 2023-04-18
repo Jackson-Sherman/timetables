@@ -1,0 +1,64 @@
+9:00 AM - 4:00 PM [7.0000]
+ 4080 Racer/Ride Operator
+
+ Mentel, AJ D
+9:00 AM - 10:30 PM [13.5000]
+4081 Zephyr/Ride Operator , 4080 Racer/Ride Operator
+
+ Baker, Ryan C
+9:05 AM - 10:30 PM [13.4167]
+4080 Racer/Ride Operator
+
+ Griswold, Ryan A
+11:37 AM - 8:00 PM [8.3833]
+4080 Racer/Ride Operator
+
+ Leder, Jack S
+11:37 AM - 8:00 PM [8.3833]
+ 4081 Zephyr/Ride Operator , 4080 Racer/Ride Operator
+
+ Overholts, Ethan T
+11:37 AM - 4:00 PM [4.3833]
+ 4080 Racer/Ride Operator
+
+ Joiner, Logan
+11:37 AM - 8:00 PM [8.3833]
+4080 Racer/Ride Operator
+
+ Weeks, Josh C
+11:37 AM - 8:00 PM [8.3833]
+4080 Racer/Ride Operator
+
+ Murphy, Chase E
+3:37 PM - 10:45 PM [7.1333]
+ 4080 Racer/Ride Operator
+
+ Middendorf, Cameron M
+3:37 PM - 10:30 PM [6.8833]
+4080 Racer/Ride Operator
+
+ Grueter, Jackson C
+3:37 PM - 10:30 PM [6.8833]
+4080 Racer/Ride Operator
+
+ Hills, Gibson E
+9:05 AM - 4:00 PM [6.9167]
+ 4081 Zephyr/Ride Operator
+
+ Pachuk, Joe P
+9:05 AM - 4:00 PM [6.9167]
+ 4081 Zephyr/Ride Operator
+
+ Mckinney, Jesse I
+9:05 AM - 4:00 PM [6.9167]
+ 4080 Race/Ride Operator
+
+ Sherman, Jackson J
+3:37 PM - 10:30 PM [6.8833]
+ 4081 Zephyr/Ride Operator
+
+ Kinder, Owen M
+3:37 PM - 10:30 PM [6.8833]
+ 4081 Zephyr/Ride Operator
+
+ Gartside, Luke H

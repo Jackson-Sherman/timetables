@@ -1,0 +1,63 @@
+[2] • 11:37 AM - 8:00 PM [8.3833]
+4080 Racer/Ride Operator
+11:40 AM - 4:00 PM [4.3333]
+4059 Invertigo/Ride Operator
+3:33 PM - 10:00 PM [6.4500]
+4074 White Water Canyon/Ride Operator
+3:33 PM - 10:00 PM [6.4500]
+4074 White Water Canyon/Ride Operator
+[2] • 3:35 PM - 11:00 PM [7.4167]
+4075 Train/Ride Operator
+3:35 PM - 11:00 PM [7.4167]
+4088 Antique Autos/Ride Operator
+ Market Shift
+[3] • 3:35 PM - 11:00 PM [7.4167]
+4088 Antique Autos/Ride Operator
+3:35 PM - 11:00 PM [7.4167]
+4064 Skyflyer/Ride Operator
+3:36 PM - 11:00 PM [7.4000]
+4110 South Planet Snoopy/Ride Operator
+3:36 PM - 11:00 PM [7.4000]
+4110 South Planet Snoopy/Ride Operator
+ Market Shift
+3:36 PM - 11:00 PM [7.4000]
+4110 South Planet Snoopy/Ride Operator
+3:36 PM - 11:00 PM [7.4000]
+4097 North Planet Snoopy/Ride Operator
+3:36 PM - 10:00 PM [6.4000]
+4097 North Planet Snoopy/Ride Operator
+ Market Shift
+3:36 PM - 10:00 PM [6.4000]
+4097 North Planet Snoopy/Ride Operator
+3:36 PM - 11:00 PM [7.4000]
+4101 West Planet Snoopy/Ride Operator
+3:36 PM - 10:00 PM [6.4000]
+4101 West Planet Snoopy/Ride Operator
+ Market Shift
+3:36 PM - 10:00 PM [6.4000]
+4101 West Planet Snoopy/Ride Operator
+3:36 PM - 10:00 PM [6.4000]
+4072 Flume/Ride Operator
+3:36 PM - 10:00 PM [6.4000]
+4072 Flume/Ride Operator
+3:38 PM - 11:00 PM [7.3667]
+4076 Diamondback/Ride Operator
+[2] • 3:38 PM - 11:00 PM [7.3667]
+4076 Diamondback/Ride Operator
+ Market Shift
+[2] • 3:38 PM - 11:00 PM [7.3667]
+4085 Flight of Fear/Ride Operator
+3:38 PM - 11:00 PM [7.3667]
+4085 Flight of Fear/Ride Operator
+ Market Shift
+3:38 PM - 11:00 PM [7.3667]
+4085 Flight of Fear/Ride Operator
+3:38 PM - 11:00 PM [7.3667]
+4082 Monster/Ride Operator
+3:39 PM - 11:00 PM [7.3500]
+4106 East Planet Snoopy/Ride Operator
+ Market Shift
+[3] • 3:39 PM - 11:00 PM [7.3500]
+4106 East Planet Snoopy/Ride Operator
+4:00 PM - 8:00 PM [4.0000]
+4059 Invertigo/Ride Operator
